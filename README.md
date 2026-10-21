@@ -1,40 +1,49 @@
-### `$ whoami`
+<p align="center">
+  <img src="./header.svg" alt="Percy Kim — AI student @ UTS" width="100%" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=8B949E&vCenter=true&width=520&lines=percy+%E2%80%94+ex-chef+%E2%86%92+AI+student+%40+UTS;now+cooking%3A+python%2C+java%2C+sql%2C+qiskit" alt="whoami" />
+---
+
+## ⚡ At a glance
+
+| | |
+|---|---|
+| 🎓 **Study** | Diploma of IT @ UTS College → **Bachelor of AI @ UTS** |
+| 🏁 **Hackathons** | Qiskit Fall Fest 2026 · RIMPA Hackathon 2026 |
+| 🧠 **Focus** | AI · building small games & tools |
+| 🤝 **Teamwork** | Built and presented projects in hackathon teams under tight deadlines |
+
+## 🚀 Featured project
+
+### 🐦 [Qubird](https://github.com/Percy2234/Qiskit)
+
+> A bird-through-pipes game where **every pipe you pass runs a real quantum circuit** — the result decides whether the bird flips upside down, speeds up, or slows down.
+
+<!-- 🎬 Record a short gameplay GIF, upload it to the repo as qubird-demo.gif, then delete this comment line and the one below -->
+<!-- <p align="center"><img src="./qubird-demo.gif" width="480" alt="Qubird gameplay" /></p> -->
+
+- **Stack:** Python · Qiskit
+- **What I did:** game logic + connecting quantum measurement results to in-game effects
+- **Built for:** Qiskit Fall Fest 2026 (placed 3rd)
+- **Team:** with [@turtletiny](https://github.com/turtletiny) & [@jordiw255621-del](https://github.com/jordiw255621-del)
+
+## 🛠️ Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,git,github,linux,vscode&theme=dark" />
+</p>
 
 ```python
-class Percy:
-    name     = "Percy Kim"
-    location = "Sydney Australia"
-    previous = "Chef 🔪
-    now      = "Diploma of IT @ UTS College → Bachelor of AI @ UTS"
-
-    learning = ["Python", "Java", "SQL", "Networking", "Qiskit"]
-
-    projects = {
-        "Qubird": "quantum flappy bird — 🥉 3rd @ Qiskit Fall Fest 2026",
-    }
-
-    def motto(self):
-        return "mise en place → plan first, then build"
+learning_now = ["Machine Learning basics", "SQL & database design", "Networking"]
 ```
 
-### `$ ls ./projects`
+## 📈 GitHub activity
 
-| project | what | stack |
-|---|---|---|
-| 🐦 [**Qubird**](https://github.com/Percy2234/Qiskit) | Bird-through-pipes game — each pipe triggers a quantum-random effect. 🥉 3rd, Qiskit Fall Fest 2026 (with [@turtletiny](https://github.com/turtletiny) (https://github.com/jordiw255621-del)) | Python · Qiskit |
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Percy2234&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Percy2234&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-### `$ cat todo.txt`
+---
 
-```text
-[ ] next project idea #1
-[ ] next project idea #2
-[ ] next project idea #3
-```
-
-### `$ which tools`
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql,html,linux,vscode&theme=dark" />
-
-
+<p align="center"><sub>💬 Always happy to chat about AI, coding, or a project idea.</sub></p>
