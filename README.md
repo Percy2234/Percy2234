@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | 🎓 **Study** | Diploma of IT @ UTS College → **Bachelor of AI @ UTS** |
-| 🏁 **Hackathons** | Qiskit Fall Fest 2026 · RIMPA Hackathon 2026 |
+| 🏁 **Hackathons** | Qiskit Fall Fest 2026 (3rd) · RIMPA Hackathon 2026 (Top 8) |
 | 🧠 **Focus** | AI · building small games & tools |
 | 🤝 **Teamwork** | Built and presented projects in hackathon teams under tight deadlines |
 
