@@ -23,7 +23,7 @@ class Percy:
 
 | project | what | stack |
 |---|---|---|
-| 🐦 [**Qubird**](https://github.com/Percy2234/Qiskit) | Bird-through-pipes game — each pipe triggers a quantum-random effect. 🥉 3rd, Qiskit Fall Fest 2026 (with [@turtletiny](https://github.com/turtletiny) & [@jordiw255621-del](https://github.com/jordiw255621-del)) | Python · Qiskit |
+| 🐦 [**Qubird**](https://github.com/Percy2234/Qiskit) | Bird-through-pipes game — each pipe triggers a quantum-random effect. 🥉 3rd, Qiskit Fall Fest 2026 (with [@turtletiny](https://github.com/turtletiny) (https://github.com/jordiw255621-del)) | Python · Qiskit |
 
 ### `$ cat todo.txt`
 
