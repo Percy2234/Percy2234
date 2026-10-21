@@ -4,9 +4,9 @@
 
 ```python
 class Percy:
-    name     = "Hyungeuk (Percy) Kim"
-    location = "Sydney 🇦🇺"
-    previous = "Chef 🔪  (2020–2026) — Michelin-starred & hatted kitchens"
+    name     = "Percy Kim"
+    location = "Sydney Australia"
+    previous = "Chef 🔪
     now      = "Diploma of IT @ UTS College → Bachelor of AI @ UTS"
 
     learning = ["Python", "Java", "SQL", "Networking", "Qiskit"]
