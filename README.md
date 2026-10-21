@@ -25,7 +25,7 @@
 - **Stack:** Python · Qiskit
 - **What I did:** game logic + connecting quantum measurement results to in-game effects
 - **Built for:** Qiskit Fall Fest 2026 (placed 3rd)
-- **Team:** with [@turtletiny](https://github.com/turtletiny) & [@jordiw255621-del](https://github.com/jordiw255621-del)
+- **Team:** with [@turtletiny](https://github.com/turtletiny)
 
 ## 🛠️ Tech stack
 
