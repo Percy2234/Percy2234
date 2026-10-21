@@ -37,13 +37,5 @@
 learning_now = ["Machine Learning basics", "SQL & database design", "Networking"]
 ```
 
-## 📈 GitHub activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Percy2234&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Percy2234&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 <p align="center"><sub>💬 Always happy to chat about AI, coding, or a project idea.</sub></p>
