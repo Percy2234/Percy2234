@@ -35,9 +35,6 @@ class Percy:
 
 ### `$ which tools`
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,git,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,html,linux,vscode&theme=dark" />
 
-### `$ contact`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
